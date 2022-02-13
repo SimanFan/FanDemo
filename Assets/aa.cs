@@ -10,5 +10,8 @@ using UnityEngine;
 
 public class aa : MonoBehaviour 
 {
-
+    private void Start()
+    {
+        Debug.Log("你很逊啊");
+    }
 }
